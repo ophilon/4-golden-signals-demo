@@ -1,6 +1,6 @@
 # 4-golden-signals-demo
 
-Окружение для вебинара [Prometheus + Grafana настраиваем 4 golden signals](https://slurm.io/webinars/grafana)
+Окружение для клона вебинара [Prometheus + Grafana настраиваем 4 golden signals](https://slurm.io/webinars/grafana)
 
 ## Requirements
 
